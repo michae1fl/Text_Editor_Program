@@ -1,0 +1,3 @@
+/Users/tamilore/Desktop/everything/Uni Courses/FIRST SEMESTER - SOPHMORE/CSI 3334/Projects/Text Editor Program/cmake-build-debug/CMakeFiles/Undo_Redo_Program.dir
+/Users/tamilore/Desktop/everything/Uni Courses/FIRST SEMESTER - SOPHMORE/CSI 3334/Projects/Text Editor Program/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tamilore/Desktop/everything/Uni Courses/FIRST SEMESTER - SOPHMORE/CSI 3334/Projects/Text Editor Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
